@@ -1,0 +1,21 @@
+# Face Recognition Project Requirements
+
+# Web framework for the main application
+streamlit>=1.28.0
+
+# Data manipulation and analysis
+pandas>=1.5.0
+
+# Computer vision library
+opencv-python>=4.8.0
+
+# Deep learning based face recognition library
+deepface>=0.0.79
+
+# Additional dependencies that deepface might need
+tensorflow>=2.13.0
+numpy>=1.21.0
+Pillow>=9.0.0
+
+# Optional: For better performance with deepface
+mtcnn>=0.1.1
